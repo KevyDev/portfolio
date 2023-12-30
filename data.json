@@ -137,6 +137,24 @@
                 "GitHub"
             ],
             "preview": "2cards.jpg"
+        },
+        {
+            "name": "ToDo List",
+            "description": "Set tasks and complete them!",
+            "ghLink": "KevyDev/ToDoList",
+            "link": "https://kevydev.github.io/ToDoList/",
+            "skills": [
+                "HTML",
+                "CSS",
+                "TailwindCSS",
+                "Javascript",
+                "Typescript",
+                "NodeJS",
+                "ReactJS",
+                "Git",
+                "GitHub"
+            ],
+            "preview": "todo-list.jpg"
         }
     ]
 }
