@@ -8,31 +8,46 @@
     ],
     "skillsData": [
         [
-            "HTML",
-            "CSS",
-            "Sass",
-            "TailwindCSS",
-            "Javascript",
-            "Typescript",
-            "ReactJS"
+            "Frontend",
+            [
+                "HTML",
+                "CSS",
+                "Sass",
+                "TailwindCSS",
+                "Javascript",
+                "Typescript",
+                "ReactJS"
+            ]
         ],
         [
-            "NodeJS",
-            "ExpressJS",
-            "NextJS",
-            "PHP"
+            "Backend",
+            [
+                "NodeJS",
+                "ExpressJS",
+                "NextJS",
+                "PHP"
+            ]
         ],
         [
-            "Python",
-            "C++"
+            "Programming Languages",
+            [
+                "Python",
+                "C++"
+            ]
         ],
         [
-            "MongoDB",
-            "MySQL"
+            "Databases",
+            [
+                "MongoDB",
+                "MySQL"
+            ]
         ],
         [
-            "Git",
-            "GitHub"
+            "Version Control",
+            [
+                "Git",
+                "GitHub"
+            ]
         ]
     ],
     "projectsData": [
