@@ -3,7 +3,8 @@
         "Gold medal in 2023 Provincial Programming Contest",
         "Participant in 2023 National Programming Contest",
         "Participant in the 2023 ICPC Caribbean Finals Qualifier",
-	"Participant in the Global Game Jam 2024"
+	    "Participant in the Global Game Jam 2024",
+        "Among the winners of the 2024 Provincial Programming Contest"
     ],
     "workData": [
     ],
@@ -32,15 +33,15 @@
             "Programming Languages",
             [
                 "Python",
-		"C#",
+                "C#",
                 "C++"
             ]
         ],
         [
             "Databases",
             [
-		"MySQL",
-		"MongoDB"
+                "MySQL",
+                "MongoDB"
             ]
         ],
         [
@@ -138,7 +139,7 @@
         },
         {
             "name": "2Cards",
-            "description": "Select the pairs and win. That's all! I used a public API (rickandmortyapi.com).",
+            "description": "Select the pairs and win. I used a public API (rickandmortyapi.com).",
             "ghLink": "KevyDev/2Cards",
             "link": "https://kevydev.github.io/2Cards/",
             "skills": [
