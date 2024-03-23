@@ -2,7 +2,8 @@
     "goalsData":[
         "Gold medal in 2023 Provincial Programming Contest",
         "Participant in 2023 National Programming Contest",
-        "Participant in the 2023 ICPC Caribbean Finals Qualifier"
+        "Participant in the 2023 ICPC Caribbean Finals Qualifier",
+	"Participant in the Global Game Jam 2024"
     ],
     "workData": [
     ],
@@ -24,22 +25,22 @@
             [
                 "NodeJS",
                 "ExpressJS",
-                "NextJS",
-                "PHP"
+                "NextJS"
             ]
         ],
         [
             "Programming Languages",
             [
                 "Python",
+		"C#",
                 "C++"
             ]
         ],
         [
             "Databases",
             [
-                "MongoDB",
-                "MySQL"
+		"MySQL",
+		"MongoDB"
             ]
         ],
         [
