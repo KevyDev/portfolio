@@ -88,7 +88,7 @@
         },
         {
             "name": "MyShoppy V1",
-            "description": "My first virtual shop using React and a public API (fakestoreapi.com).",
+            "description": "My first virtual shop using ReactJS. It uses a public API (fakestoreapi.com).",
             "ghLink": "KevyDev/MyShoppyV1",
             "link": "https://kevydev.github.io/MyShoppyV1/",
             "skills": [
@@ -139,7 +139,7 @@
         },
         {
             "name": "2Cards",
-            "description": "Select the pairs and win. I used a public API (rickandmortyapi.com).",
+            "description": "Select the pairs and win. That's all! It uses a public API (rickandmortyapi.com).",
             "ghLink": "KevyDev/2Cards",
             "link": "https://kevydev.github.io/2Cards/",
             "skills": [
@@ -172,6 +172,18 @@
                 "GitHub"
             ],
             "preview": "todo-list.jpg"
+        },
+        {
+            "name": "EmilyProfeBot",
+            "description": "The Spanish teacher who helps you improve your writing. Telegram bot programmed in Python. It uses a public API (languagetool.org).",
+            "ghLink": "KevyDev/EmilyProfeBot",
+            "link": "https://t.me/EmilyProfeBot/",
+            "skills": [
+                "Python",
+                "Git",
+                "GitHub"
+            ],
+            "preview": "emilyprofebot.jpg"
         }
     ]
 }
