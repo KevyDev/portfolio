@@ -4,7 +4,8 @@
         "Participant in 2023 National Programming Contest",
         "Participant in the 2023 ICPC Caribbean Finals Qualifier",
 	    "Participant in the Global Game Jam 2024",
-        "Among the winners of the 2024 Provincial Programming Contest"
+        "Among the winners of the 2024 Provincial Programming Contest",
+        "Computer Science student"
     ],
     "workData": [
     ],
@@ -184,6 +185,22 @@
                 "GitHub"
             ],
             "preview": "emilyprofebot.jpg"
+        },
+        {
+            "name": "taskies",
+            "description": "Set tasks and complete them, again!",
+            "ghLink": "KevyDev/taskies",
+            "link": "https://kevydev.github.io/taskies/",
+            "skills": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "NodeJS",
+                "ReactJS",
+                "Git",
+                "GitHub"
+            ],
+            "preview": "taskies.jpg"
         }
     ]
 }
