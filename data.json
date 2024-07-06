@@ -178,7 +178,6 @@
             "name": "EmilyProfeBot",
             "description": "The Spanish teacher who helps you improve your writing. Telegram bot programmed in Python. It uses a public API (languagetool.org).",
             "ghLink": "KevyDev/EmilyProfeBot",
-            "link": "https://t.me/EmilyProfeBot/",
             "skills": [
                 "Python",
                 "Git",
